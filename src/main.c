@@ -7,7 +7,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <header.h>
 
 /*
 Pour cet exercice, vous devez faire en sorte d'utiliser des headers dans le but de retirer tous les warnings potentiels
